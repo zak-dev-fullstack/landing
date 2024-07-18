@@ -42,7 +42,7 @@ function Navbar() {
           style={{ width: "80px", height: "80px"}}
           alt="logo"
         />
-        <a href="/landing" className="w3-bar-item w3-button w3-padding-large">
+        <a href="https://zak-dev-fullstack.github.io//landing" className="w3-bar-item w3-button w3-padding-large">
           HOME
         </a>
         <a href="#band" className="w3-bar-item w3-button w3-padding-large w3-hide-small">
